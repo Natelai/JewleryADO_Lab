@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewleryADO_Lab", "JewleryADO_Lab.csproj", "{883CDC81-4D2F-4513-8A5F-218D45C33246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{248BC6BC-F78E-467F-A5D8-965CFE1FD34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "..\Persistance\Persistance.csproj", "{014394B2-6DCD-4D0D-B3F2-2DFEE701DC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883CDC81-4D2F-4513-8A5F-218D45C33246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883CDC81-4D2F-4513-8A5F-218D45C33246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883CDC81-4D2F-4513-8A5F-218D45C33246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883CDC81-4D2F-4513-8A5F-218D45C33246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248BC6BC-F78E-467F-A5D8-965CFE1FD34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248BC6BC-F78E-467F-A5D8-965CFE1FD34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248BC6BC-F78E-467F-A5D8-965CFE1FD34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248BC6BC-F78E-467F-A5D8-965CFE1FD34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014394B2-6DCD-4D0D-B3F2-2DFEE701DC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014394B2-6DCD-4D0D-B3F2-2DFEE701DC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014394B2-6DCD-4D0D-B3F2-2DFEE701DC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014394B2-6DCD-4D0D-B3F2-2DFEE701DC44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3156A2B2-52FD-43FB-9DDF-72C5A3D3D42A}
+	EndGlobalSection
+EndGlobal
